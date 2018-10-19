@@ -82,6 +82,11 @@ p {
    font-weight: bold 
  } 
 ```
+### Сокращенная запись
+
+Для отптимизации CSS используют вариант сокращенной записи
+
+font: italic small-caps lighter 14px Georgia, serif;
 
 ### Отзывчивость шрифта
 
